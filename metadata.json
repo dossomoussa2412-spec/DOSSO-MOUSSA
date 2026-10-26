@@ -1,0 +1,6 @@
+{
+  "name": "IvoireTrack GPS — Suivi d'Engins Côte d'Ivoire",
+  "description": "Plateforme professionnelle de géolocalisation GPS, télématique carburant, coupe-circuit à distance et géorepérage pour tous types d'engins (BTP, poids lourds, agricole, motos, flottes) en Côte d'Ivoire.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
